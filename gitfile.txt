@@ -8,3 +8,4 @@ i am going to be so blessehd
 Adding a new line of text from bugfix master
 it can be hard....but we keep going by the grace of God
 We are adding this new line from GUI
+We are adding a line to test this repo site

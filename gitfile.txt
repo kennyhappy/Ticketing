@@ -5,3 +5,4 @@ the expectations for this leacture is just to refresh mu memory to learn about g
 2.it is a really great idea
 3. am going to makew alot of monet doing this
 i am going to be so blessed
+Adding a new line of text from bugfix master

@@ -25,34 +25,42 @@
 # Registers:
 
 # File marks:
-'0  7  26  ~/gitfile.txt
-|4,48,7,26,1660821399,"~/gitfile.txt"
-'1  6  0  ~/gitfile.txt
-|4,49,6,0,1660821258,"~/gitfile.txt"
-'2  6  0  ~/gitfile.txt
-|4,50,6,0,1660821258,"~/gitfile.txt"
-'3  4  33  ~/gitfile.txt
-|4,51,4,33,1660820617,"~/gitfile.txt"
-'4  4  33  ~/gitfile.txt
-|4,52,4,33,1660820617,"~/gitfile.txt"
-'5  4  33  ~/gitfile.txt
-|4,53,4,33,1660820617,"~/gitfile.txt"
-'6  4  33  ~/gitfile.txt
-|4,54,4,33,1660820617,"~/gitfile.txt"
-'7  5  46  ~/fintech/uba.txt
-|4,55,5,46,1659788513,"~/fintech/uba.txt"
-'8  3  43  ~/fintech/uba.txt
-|4,56,3,43,1659786337,"~/fintech/uba.txt"
-'9  3  43  ~/fintech/uba.txt
-|4,57,3,43,1659786337,"~/fintech/uba.txt"
+'0  9  54  ~/gitfile.txt
+|4,48,9,54,1660822907,"~/gitfile.txt"
+'1  7  26  ~/gitfile.txt
+|4,49,7,26,1660821399,"~/gitfile.txt"
+'2  7  26  ~/gitfile.txt
+|4,50,7,26,1660821399,"~/gitfile.txt"
+'3  6  0  ~/gitfile.txt
+|4,51,6,0,1660821258,"~/gitfile.txt"
+'4  6  0  ~/gitfile.txt
+|4,52,6,0,1660821258,"~/gitfile.txt"
+'5  6  0  ~/gitfile.txt
+|4,53,6,0,1660821258,"~/gitfile.txt"
+'6  6  0  ~/gitfile.txt
+|4,54,6,0,1660821258,"~/gitfile.txt"
+'7  4  33  ~/gitfile.txt
+|4,55,4,33,1660820617,"~/gitfile.txt"
+'8  4  33  ~/gitfile.txt
+|4,56,4,33,1660820617,"~/gitfile.txt"
+'9  4  33  ~/gitfile.txt
+|4,57,4,33,1660820617,"~/gitfile.txt"
 
 # Jumplist (newest first):
+-'  9  54  ~/gitfile.txt
+|4,39,9,54,1660822907,"~/gitfile.txt"
+-'  7  26  ~/gitfile.txt
+|4,39,7,26,1660822864,"~/gitfile.txt"
 -'  7  26  ~/gitfile.txt
 |4,39,7,26,1660821399,"~/gitfile.txt"
 -'  6  0  ~/gitfile.txt
 |4,39,6,0,1660821363,"~/gitfile.txt"
 -'  6  0  ~/gitfile.txt
+|4,39,6,0,1660821363,"~/gitfile.txt"
+-'  6  0  ~/gitfile.txt
 |4,39,6,0,1660821258,"~/gitfile.txt"
+-'  4  33  ~/gitfile.txt
+|4,39,4,33,1660821226,"~/gitfile.txt"
 -'  4  33  ~/gitfile.txt
 |4,39,4,33,1660821226,"~/gitfile.txt"
 -'  4  33  ~/gitfile.txt
@@ -65,6 +73,24 @@
 |4,39,1,0,1660820526,"~/gitfile.txt"
 -'  1  0  ~/gitfile.txt
 |4,39,1,0,1660820526,"~/gitfile.txt"
+-'  1  0  ~/gitfile.txt
+|4,39,1,0,1660820526,"~/gitfile.txt"
+-'  5  46  ~/fintech/uba.txt
+|4,39,5,46,1659788513,"~/fintech/uba.txt"
+-'  5  46  ~/fintech/uba.txt
+|4,39,5,46,1659788513,"~/fintech/uba.txt"
+-'  5  46  ~/fintech/uba.txt
+|4,39,5,46,1659788513,"~/fintech/uba.txt"
+-'  5  46  ~/fintech/uba.txt
+|4,39,5,46,1659788513,"~/fintech/uba.txt"
+-'  5  46  ~/fintech/uba.txt
+|4,39,5,46,1659788513,"~/fintech/uba.txt"
+-'  5  46  ~/fintech/uba.txt
+|4,39,5,46,1659788513,"~/fintech/uba.txt"
+-'  5  46  ~/fintech/uba.txt
+|4,39,5,46,1659788513,"~/fintech/uba.txt"
+-'  5  46  ~/fintech/uba.txt
+|4,39,5,46,1659788513,"~/fintech/uba.txt"
 -'  5  46  ~/fintech/uba.txt
 |4,39,5,46,1659788513,"~/fintech/uba.txt"
 -'  5  46  ~/fintech/uba.txt
@@ -97,6 +123,38 @@
 |4,39,3,43,1659788466,"~/fintech/uba.txt"
 -'  3  43  ~/fintech/uba.txt
 |4,39,3,43,1659788466,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659788466,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659788466,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659788466,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659788466,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659788466,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659788466,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659788466,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659788466,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659786337,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659786337,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659786337,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659786337,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659786337,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659786337,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659786337,"~/fintech/uba.txt"
+-'  3  43  ~/fintech/uba.txt
+|4,39,3,43,1659786337,"~/fintech/uba.txt"
 -'  3  43  ~/fintech/uba.txt
 |4,39,3,43,1659786337,"~/fintech/uba.txt"
 -'  3  43  ~/fintech/uba.txt
@@ -145,6 +203,38 @@
 |4,39,4,32,1659786153,"~/fintech/uba.txt"
 -'  4  32  ~/fintech/uba.txt
 |4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
+-'  4  32  ~/fintech/uba.txt
+|4,39,4,32,1659786153,"~/fintech/uba.txt"
 -'  3  44  ~/fintech/uba.txt
 |4,39,3,44,1659786132,"~/fintech/uba.txt"
 -'  3  44  ~/fintech/uba.txt
@@ -157,108 +247,19 @@
 |4,39,3,44,1659786132,"~/fintech/uba.txt"
 -'  3  44  ~/fintech/uba.txt
 |4,39,3,44,1659786132,"~/fintech/uba.txt"
--'  3  44  ~/fintech/uba.txt
-|4,39,3,44,1659786132,"~/fintech/uba.txt"
--'  3  44  ~/fintech/uba.txt
-|4,39,3,44,1659786132,"~/fintech/uba.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
--'  2  26  ~/fintech/uba2.txt
-|4,39,2,26,1659785848,"~/fintech/uba2.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/gitfile.txt
-	*	1660821398	0
-	"	7	26
-	^	7	27
-	.	7	26
+	*	1660822906	0
+	"	9	54
+	^	9	55
+	.	9	54
 	+	4	33
 	+	5	0
 	+	6	45
 	+	7	26
+	+	9	54
 
 > ~/fintech/uba.txt
 	*	1659788512	0
